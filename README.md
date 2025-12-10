@@ -103,7 +103,12 @@ Um dos desafios técnicos foi a integração entre o objeto Date do JavaScript e
 * Solução: Implementamos a padronização via ISO-8601. O Frontend formata as datas para strings compatíveis antes de enviar o JSON, e o Backend utiliza anotações e conversores padrão do Spring para deserializar corretamente, garantindo integridade temporal sem erros de fuso horário.
 
 ## 👨‍💻 Autores
-Desenvolvido como atividade da disciplina de Aplicações Mobile.
+Desenvolvido da atividade da disciplina de Aplicações Mobile.
 
 * Vinicius Augusto Ramos Bastos
 * Pedro Henrique Lopes Martins
+
+Desenvolvimento da atividade da disciplina de Aplicações WEB
+
+* Vinicius Augusto Ramos Bastos
+* Leonardo Freire Miranda
